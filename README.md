@@ -203,10 +203,3 @@ The final report includes:
 
 ---
 
-## Author
-
-**Hritish Mahajan**  
-*Data Analysis | Python | SQL | Power BI | Machine Learning |*
-
-📧 Contact: hritishx@gmail.com  
-🔗 GitHub: [github.com/hritishmahajan](https://github.com/hritishmahajan)
